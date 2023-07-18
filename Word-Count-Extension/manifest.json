@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Word Count Extension",
+    "version": "1.0",
+    "description": "Counts occurrences of a given word on a web page.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+}
+  
